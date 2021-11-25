@@ -1,5 +1,5 @@
 # brcc-go-sdk
-golang sdk for BRCC (https://github.com/baidu/brcc)
+golang sdk for BRCC (https://github.com/baidu/brcc-go-sdk)
 
 [![Build Status](https://travis-ci.org/baidu/brcc.svg?branch=main)](https://travis-ci.org/github/baidu/brcc-go-sdk)
 [![codecov](https://codecov.io/gh/baidu/brcc/branch/main/graph/badge.svg)](https://codecov.io/gh/baidu/brcc-go-sdk)

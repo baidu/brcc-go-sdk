@@ -1,8 +1,15 @@
+<!--
+ * @Author: Malin Xie
+ * @Description: 
+ * @Date: 2021-11-25 15:28:34
+-->
 # brcc-go-sdk
 golang sdk for BRCC (https://github.com/baidu/brcc)
 
-[![Build Status](https://travis-ci.org/baidu/brcc.svg?branch=main)](https://travis-ci.org/github/baidu/brcc-go-sdk)
+[![Go Report Card](https://goreportcard.com/badge/github.com/baidu/brcc-go-sdk?style=flat-square)](https://goreportcard.com/report/github.com/baidu/brcc-go-sdk)
+[![Go](https://github.com/baidu/brcc-go-sdk/actions/workflows/go.yml/badge.svg)](https://github.com/baidu/brcc-go-sdk/actions/workflows/go.yml)
 [![codecov](https://codecov.io/gh/baidu/brcc/branch/main/graph/badge.svg)](https://codecov.io/gh/baidu/brcc-go-sdk)
+[![Go Reference](https://golang.com.cn/badge/github.com/baidu/brcc-go-sdk.svg)](https://golang.com.cn/github.com/baidu/brcc-go-sdk)
 [![License](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg?style=flat-square)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ----------------------------------------

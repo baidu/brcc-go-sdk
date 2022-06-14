@@ -83,9 +83,9 @@ client.GetAllKeys()
 #### bind with configuration items for struct type.
 ```go
 type Test struct {
-    A bool   `brcc:"test.a"`
-    B int    `brcc:"test.b"`
-    C string `brcc:"test.c"`
+    A bool   `rcc:"test.a"`
+    B int    `rcc:"test.b"`
+    C string `rcc:"test.c"`
 }
 
 v := &Test{}
